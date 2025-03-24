@@ -4104,19 +4104,19 @@ html {
   
     h5 {
       letter-spacing: .13rem;
-      font-size: .8rem;
+      font-size: 1.3rem;
       line-height: 1.3rem;
     }
   
     h6 {
       letter-spacing: .125rem;
-      font-size: .7rem;
+      font-size: 1.2rem;
       line-height: 1.2rem;
     }
   
     p, a {
       letter-spacing: .06rem;
-      font-size: 1rem;
+      font-size: 1.5rem;
       line-height: 1.7rem;
     }
   
@@ -4218,7 +4218,7 @@ html {
     }
   
     .button-text {
-      font-size: 1rem;
+      font-size: 1.5rem;
       line-height: 1.7rem;
     }
   
@@ -4250,7 +4250,7 @@ html {
     }
   
     .footer-link {
-      font-size: .9rem;
+      font-size: 1.5rem;
       line-height: 1.6rem;
     }
   
@@ -4728,9 +4728,11 @@ html {
     }
   
     .dropdown-answer {
-      text-align: center;
-      margin-left: auto;
-      margin-right: auto;
+      text-align: left;
+      width: 100%;
+      /* text-align: center;
+       margin-left: auto;
+      margin-right: auto; */
     }
   
     .faq-wrapper {
